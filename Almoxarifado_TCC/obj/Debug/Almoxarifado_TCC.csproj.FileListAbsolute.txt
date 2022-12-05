@@ -1,0 +1,143 @@
+C:\Users\Adams ^-^\source\repos\Almoxarifado_TCC\Almoxarifado_TCC\bin\Debug\Almoxarifado_TCC.exe.config
+C:\Users\Adams ^-^\source\repos\Almoxarifado_TCC\Almoxarifado_TCC\bin\Debug\Almoxarifado_TCC.exe
+C:\Users\Adams ^-^\source\repos\Almoxarifado_TCC\Almoxarifado_TCC\bin\Debug\Almoxarifado_TCC.pdb
+C:\Users\Adams ^-^\source\repos\Almoxarifado_TCC\Almoxarifado_TCC\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Adams ^-^\source\repos\Almoxarifado_TCC\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.csprojAssemblyReference.cache
+C:\Users\Adams ^-^\source\repos\Almoxarifado_TCC\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.Properties.Resources.resources
+C:\Users\Adams ^-^\source\repos\Almoxarifado_TCC\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.TelaPrincipal.resources
+C:\Users\Adams ^-^\source\repos\Almoxarifado_TCC\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.csproj.GenerateResource.cache
+C:\Users\Adams ^-^\source\repos\Almoxarifado_TCC\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.csproj.CoreCompileInputs.cache
+C:\Users\Adams ^-^\source\repos\Almoxarifado_TCC\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.csproj.CopyComplete
+C:\Users\Adams ^-^\source\repos\Almoxarifado_TCC\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.exe
+C:\Users\Adams ^-^\source\repos\Almoxarifado_TCC\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.pdb
+C:\Users\Adams ^-^\source\repos\Almoxarifado_TCC\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.Login.resources
+C:\Users\Adams ^-^\source\repos\Almoxarifado_TCC\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.Forms.Chave.resources
+C:\Users\Adams ^-^\source\repos\Almoxarifado_TCC\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.Forms.Estoque.resources
+C:\Users\Adams ^-^\source\repos\Almoxarifado_TCC\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.Forms.Pedidos.resources
+C:\Users\Adams ^-^\source\repos\Almoxarifado_TCC\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.Forms.Descarte.resources
+C:\Users\Adams ^-^\source\repos\Almoxarifado_TCC\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.Forms.Historico.resources
+C:\Users\Adams ^-^\source\repos\Almoxarifado_TCC\Almoxarifado_TCC\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Aluno\Desktop\Almoxarifado_TCC\Almoxarifado_TCC\bin\Debug\Almoxarifado_TCC.exe.config
+C:\Users\Aluno\Desktop\Almoxarifado_TCC\Almoxarifado_TCC\bin\Debug\Almoxarifado_TCC.exe
+C:\Users\Aluno\Desktop\Almoxarifado_TCC\Almoxarifado_TCC\bin\Debug\Almoxarifado_TCC.pdb
+C:\Users\Aluno\Desktop\Almoxarifado_TCC\Almoxarifado_TCC\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Aluno\Desktop\Almoxarifado_TCC\Almoxarifado_TCC\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Aluno\Desktop\Almoxarifado_TCC\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\Almoxarifado_TCC\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.Forms.Chave.resources
+C:\Users\Aluno\Desktop\Almoxarifado_TCC\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.Forms.Pedidos.resources
+C:\Users\Aluno\Desktop\Almoxarifado_TCC\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.Forms.Descarte.resources
+C:\Users\Aluno\Desktop\Almoxarifado_TCC\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.Forms.Estoque.resources
+C:\Users\Aluno\Desktop\Almoxarifado_TCC\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.Forms.Historico.resources
+C:\Users\Aluno\Desktop\Almoxarifado_TCC\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.Login.resources
+C:\Users\Aluno\Desktop\Almoxarifado_TCC\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Almoxarifado_TCC\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.TelaPrincipal.resources
+C:\Users\Aluno\Desktop\Almoxarifado_TCC\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Almoxarifado_TCC\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Almoxarifado_TCC\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.csproj.CopyComplete
+C:\Users\Aluno\Desktop\Almoxarifado_TCC\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.exe
+C:\Users\Aluno\Desktop\Almoxarifado_TCC\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.pdb
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\Almoxarifado_TCC.exe.config
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\Almoxarifado_TCC.exe
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\Almoxarifado_TCC.pdb
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.csprojAssemblyReference.cache
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.Forms.Chave.resources
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.Forms.Pedidos.resources
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.Forms.Descarte.resources
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.Forms.Estoque.resources
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.Forms.Historico.resources
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.Login.resources
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.Properties.Resources.resources
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.TelaPrincipal.resources
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.csproj.GenerateResource.cache
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.csproj.CopyComplete
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.exe
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.pdb
+C:\Users\Adams ^-^\Desktop\Tcc\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\Almoxarifado_TCC.exe.config
+C:\Users\Adams ^-^\Desktop\Tcc\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\Almoxarifado_TCC.exe
+C:\Users\Adams ^-^\Desktop\Tcc\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\Almoxarifado_TCC.pdb
+C:\Users\Adams ^-^\Desktop\Tcc\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Adams ^-^\Desktop\Tcc\Almoxarifado_Tcc\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.csprojAssemblyReference.cache
+C:\Users\Adams ^-^\Desktop\Tcc\Almoxarifado_Tcc\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.Forms.Chave.resources
+C:\Users\Adams ^-^\Desktop\Tcc\Almoxarifado_Tcc\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.Forms.Pedidos.resources
+C:\Users\Adams ^-^\Desktop\Tcc\Almoxarifado_Tcc\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.Forms.Descarte.resources
+C:\Users\Adams ^-^\Desktop\Tcc\Almoxarifado_Tcc\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.Forms.Estoque.resources
+C:\Users\Adams ^-^\Desktop\Tcc\Almoxarifado_Tcc\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.Forms.Historico.resources
+C:\Users\Adams ^-^\Desktop\Tcc\Almoxarifado_Tcc\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.Login.resources
+C:\Users\Adams ^-^\Desktop\Tcc\Almoxarifado_Tcc\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.Properties.Resources.resources
+C:\Users\Adams ^-^\Desktop\Tcc\Almoxarifado_Tcc\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.TelaPrincipal.resources
+C:\Users\Adams ^-^\Desktop\Tcc\Almoxarifado_Tcc\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.csproj.GenerateResource.cache
+C:\Users\Adams ^-^\Desktop\Tcc\Almoxarifado_Tcc\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.csproj.CoreCompileInputs.cache
+C:\Users\Adams ^-^\Desktop\Tcc\Almoxarifado_Tcc\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.csproj.CopyComplete
+C:\Users\Adams ^-^\Desktop\Tcc\Almoxarifado_Tcc\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.exe
+C:\Users\Adams ^-^\Desktop\Tcc\Almoxarifado_Tcc\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.pdb
+C:\Users\Adams ^-^\Desktop\Tcc\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Adams ^-^\Desktop\Tcc\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Adams ^-^\Desktop\Tcc\Almoxarifado_Tcc\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.Forms.Perfil.resources
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\System.Geometry.xml
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.exe.config
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.Forms.Perfil.resources
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\Google.Protobuf.xml
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\MySql.Data.xml
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\System.Buffers.xml
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\System.Memory.xml
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\RestSharp.xml
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\System.CodeDom.xml
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\System.Data.Odbc.xml
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\System.Data.OleDb.xml
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\System.Drawing.Common.xml
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\System.IO.Packaging.xml
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\System.IO.Ports.xml
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\System.Security.Permissions.xml
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\Aluno\Downloads\Almoxarifado_Tcc\Almoxarifado_TCC\obj\Debug\Almoxarifado_TCC.csproj.Fody.CopyLocal.cache
+C:\Users\Adams ^-^\Desktop\Tcc\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Adams ^-^\Desktop\Tcc\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\Google.Protobuf.dll
+C:\Users\Adams ^-^\Desktop\Tcc\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Adams ^-^\Desktop\Tcc\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Adams ^-^\Desktop\Tcc\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Adams ^-^\Desktop\Tcc\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\MySql.Data.dll
+C:\Users\Adams ^-^\Desktop\Tcc\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\System.Buffers.dll
+C:\Users\Adams ^-^\Desktop\Tcc\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\System.Data.Odbc.dll
+C:\Users\Adams ^-^\Desktop\Tcc\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Adams ^-^\Desktop\Tcc\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\System.Memory.dll
+C:\Users\Adams ^-^\Desktop\Tcc\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Adams ^-^\Desktop\Tcc\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\ZstdNet.dll
+C:\Users\Adams ^-^\Desktop\Tcc\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Adams ^-^\Desktop\Tcc\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\Google.Protobuf.pdb
+C:\Users\Adams ^-^\Desktop\Tcc\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\Google.Protobuf.xml
+C:\Users\Adams ^-^\Desktop\Tcc\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Adams ^-^\Desktop\Tcc\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Adams ^-^\Desktop\Tcc\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Adams ^-^\Desktop\Tcc\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\MySql.Data.xml
+C:\Users\Adams ^-^\Desktop\Tcc\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\System.Buffers.xml
+C:\Users\Adams ^-^\Desktop\Tcc\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\System.Data.Odbc.xml
+C:\Users\Adams ^-^\Desktop\Tcc\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Adams ^-^\Desktop\Tcc\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\System.Memory.xml
+C:\Users\Adams ^-^\Desktop\Tcc\Almoxarifado_Tcc\Almoxarifado_TCC\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
